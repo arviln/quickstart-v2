@@ -1,0 +1,25 @@
+# This file is maintained automatically by "terraform init".
+# Manual edits may be lost in future updates.
+
+provider "registry.terraform.io/abbeylabs/abbey" {
+  version     = "0.2.3"
+  constraints = "0.2.3"
+  hashes = [
+    "h1:GvfNcvoUPA4LQ95Z71I8cm+eYeNOML2yz1+hkBOAZRI=",
+    "zh:160c4078db56bb146c403766c0f87d9a82ebc61ee36957c875ea21572b45a722",
+    "zh:22314e3616462b34caef910211406d8e2cf6b7225a02ccdf85ce3ba59f6bae0e",
+    "zh:61e5dd2cd84258e611a4488a900295d3b0ba8fffe8ea3c6281646da7f6f54b15",
+    "zh:64f79e208a77a7776ae398c8e10f6dfce765dbe926656695cc5aea36591ae651",
+    "zh:668b88ca864523cc4265f452f2b0d178cac927b0b74d12702baee89c3932ca85",
+    "zh:6e80af91c4041ed2f48fab73e2353b137fa441f0c361ac2cc77a9bea3e82ab05",
+    "zh:729e5dc33a6f1b2825acaa02cdc94dd795a8c3b5fef11e3e51aefd3f13237d9c",
+    "zh:7739427b58b6adaec28556ab203025815915190222c87012361fb0fe1559bef3",
+    "zh:7a5f8738554b05d1a842e9e76fa5eed2ae8aa2fb46004528da3304c4990f8e36",
+    "zh:890df766e9b839623b1f0437355032a3c006226a6c200cd911e15ee1a9014e9f",
+    "zh:a73821db07f3ebb0732348ed83130a2285e4e7a348257daa4933520873c44f8b",
+    "zh:bb2c650ead043cce34200cdde5466f287e094ebb692b4655663c520ef9e80ef4",
+    "zh:c0fff090251508f49c79b7f436a964a94d000e01fda40687448b535ad86eaf5c",
+    "zh:cbca15116941cd91087e7146299d54c09b27f69c4f5db8d97351c5730fdcd701",
+    "zh:f8221eba0405317f26a6bc0a5ac6205a849f558b3dd743953a009063d3844ba6",
+  ]
+}
